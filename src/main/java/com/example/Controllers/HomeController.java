@@ -37,6 +37,7 @@ public class HomeController {
     @Autowired
     private UserManager userManager;
 
+
     @RequestMapping({"/", "/home"})
     public String showHomePage(HttpServletRequest request, HttpServletResponse response, Model model) {
         boolean error = false;
