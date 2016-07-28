@@ -17,7 +17,7 @@ import java.util.Random;
  * Created by Sigal on 5/16/2016.
  */
 public class Utils {
-
+    //commited
     @Autowired
     private TemplateUtils templateUtils;
 
