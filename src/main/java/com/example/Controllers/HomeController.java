@@ -27,6 +27,7 @@ import static org.springframework.util.StringUtils.hasText;
 /**
  * Created by Sigal on 5/16/2016.
  */
+
 @Controller
 public class HomeController {
 
